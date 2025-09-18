@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Lumi",
+        "last": "Lassila"
+      },
+      "location": {
+        "street": {
+          "number": 2978,
+          "name": "Hatanpään Valtatie"
+        },
+        "city": "Ruokolahti",
+        "state": "Pirkanmaa",
+        "country": "Finland",
+        "postcode": 50568,
+        "coordinates": {
+          "latitude": "-25.2805",
+          "longitude": "77.5641"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "lumi.lassila@example.com",
+      "login": {
+        "uuid": "877b42b8-7963-4896-8308-00037bd9efbd",
+        "username": "lazybird110",
+        "password": "727272",
+        "salt": "KAnHJyXp",
+        "md5": "505084e721c9b1e402bc6c44fa2336e6",
+        "sha1": "d7a37fe4cbaaf53f69f7b4ed493e830a3abdd067",
+        "sha256": "ae260cfd9a3af0c99b354a35a66d82ec4ffc7ce388f630f0bc8e05fa6756b86a"
+      },
+      "dob": {
+        "date": "1947-09-26T03:41:34.133Z",
+        "age": 77
+      },
+      "registered": {
+        "date": "2006-06-25T03:02:08.101Z",
+        "age": 19
+      },
+      "phone": "07-858-978",
+      "cell": "049-962-45-66",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA246undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/47.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+      },
+      "nat": "FI"
+    }
+  ],
+  "info": {
+    "seed": "a4748c88022fd0c4",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
